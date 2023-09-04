@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    username: twinuser
+    password: twinpass
+    host: localhost
+    port: 5672
+    
